@@ -1,9 +1,9 @@
 # JavaScript_Promises-FetchAPI_Practice-
 
-# Consuming Promises
+# 1. Consuming Promises
 
-# Chaining Promises
+# 2. Chaining Promises
 
-# Handling Rejected Promises
+# 3. Handling Rejected Promises
 
-# Throwing Errors Manually
+# 4. Throwing Errors Manually
